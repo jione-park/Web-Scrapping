@@ -26,6 +26,8 @@ The dataset used in this project is obtained through web scraping of Samsung Ele
 # Analysis
 ## Q1: Average Daily Volume Analysis
 
+![Figure_1](https://github.com/jione-park/Web-Scrapping/assets/105265104/11ec6261-dfe3-404c-9b96-d83b24162b13)
+
 This line graph demonstrates the stock's daily trading volume over time, juxtaposed with its average value throughout the entire period. A red horizontal line indicates the average trading volume, while the blue line represents daily volumes.
 Insights:
 Average Trading Interest: The average line suggests a consistent trading interest in Samsung Electronics' stock.
@@ -33,12 +35,16 @@ Market Response: Peaks in volume could signal market reactions to corporate or e
 
 ## Q2: Price Fluctuation Analysis
 
+![Figure_2](https://github.com/jione-park/Web-Scrapping/assets/105265104/8bc6fc69-f476-4e04-b2b3-895b010fc831)
+
 A histogram that shows the frequency of daily price differences, highlighting days with unusual highs and lows. The red line indicates the average price difference across the period.
 Insights:
 Market Stability: Days clustered around the average suggest stable market conditions.
 High Volatility Indicators: Days far from the average may point to specific impactful events, signaling investor caution.
 
 ## Q3: Volume and Price Trend Correlation
+
+![Figure_3](https://github.com/jione-park/Web-Scrapping/assets/105265104/94224e71-c9fd-4d4c-8f36-b61a91ac7228)
 
 This double-axis graph depicts the relationship between the stock's closing prices and traded volumes over time, revealing the interplay between stock value and market activity.
 Insights:
